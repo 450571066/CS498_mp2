@@ -8737,3 +8737,1179 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.17-03.45.00:937][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.17-03.45.00:953][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2021.10.17-03.45.00:983][638]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2021.10.17-03.47.01:531][949]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.02:033][993]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.17-03.47.16:513][294]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.47.45:631][ 19]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-03.47.50:319][414]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.50:435][420]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.50:898][461]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.51:458][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.51:824][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.53:821][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.47.54:597][799]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.17-03.48.56:061][215]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.17-03.49.04:269][951]Cmd: DELETE
+[2021.10.17-03.49.04:269][951]Cmd: ACTOR DELETE
+[2021.10.17-03.49.04:276][951]LogEditorActor: Deleted Actor: SkyLight
+[2021.10.17-03.49.04:281][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.17-03.49.04:284][951]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.17-03.49.28:319][360]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.49.28:978][411]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.49.29:610][466]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.49.41:950][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x426)
+[2021.10.17-03.49.43:095][779]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x427)
+[2021.10.17-03.49.45:287][946]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x429)
+[2021.10.17-03.49.45:629][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x411)
+[2021.10.17-03.49.46:017][996]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x412)
+[2021.10.17-03.49.48:811][222]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x408)
+[2021.10.17-03.49.49:282][250]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x407)
+[2021.10.17-03.50.23:528][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2021.10.17-03.50.25:115][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x407)
+[2021.10.17-03.50.26:228][545]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x408)
+[2021.10.17-03.50.28:589][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x412)
+[2021.10.17-03.50.29:428][812]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x411)
+[2021.10.17-03.50.29:891][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x429)
+[2021.10.17-03.50.33:020][122]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x427)
+[2021.10.17-03.50.33:881][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x426)
+[2021.10.17-03.50.41:892][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.50.47:314][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x430)
+[2021.10.17-03.50.55:076][814]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x415)
+[2021.10.17-03.50.55:882][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x430)
+[2021.10.17-03.51.01:007][257]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x403)
+[2021.10.17-03.51.04:415][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2021.10.17-03.51.05:117][556]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x403)
+[2021.10.17-03.51.05:569][591]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x421)
+[2021.10.17-03.51.35:965][466]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.51.35:970][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.51.35:970][466]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:51:35)
+[2021.10.17-03.51.36:005][466]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.51.36:019][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015050s)
+[2021.10.17-03.51.36:021][466]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.51.36:021][466]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2021.10.17-03.51.36:021][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.016145s)
+[2021.10.17-03.51.36:025][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.17-03.51.36:028][466]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.51.36:028][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.51.36:028][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.51.36:029][466]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.51.36:029][466]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.51.36:034][466]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.51.36:034][466]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.51.36:055][466]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.51.36:055][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.51.36:055][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.51.36:055][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.51.36:056][466]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.51.36:056][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.51.36:056][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.51.36:062][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.51.36:062][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.51.36:062][466]LogInit: FAudioDevice initialized.
+[2021.10.17-03.51.36:062][466]LogAudio: Display: Audio Device (ID: 65) registered with world 'Untitled'.
+[2021.10.17-03.51.36:073][466]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.51.36:076][466]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.51.36:076][466]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.51.36:076][466]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.51.36:078][466]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.51.36
+[2021.10.17-03.51.36:078][466]LogWorld: Bringing up level for play took: 0.004786
+[2021.10.17-03.51.36:078][466]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2021.10.17-03.51.36:080][466]PIE: Server logged in
+[2021.10.17-03.51.36:081][466]PIE: Play in editor total start time 0.113 seconds.
+[2021.10.17-03.52.05:675][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.52.05:675][378]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.52.05:676][378]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.52.05:676][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.52.05:685][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.52.05:698][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.52.05:702][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-03.52.05:702][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.52.05:703][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.52.05:717][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.52.05:720][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.17-03.52.05:749][379]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2021.10.17-03.53.03:181][577]Cmd: TRANSACTION UNDO
+[2021.10.17-03.53.03:181][577]LogEditorTransaction: Undo Move Actors
+[2021.10.17-03.53.12:873][657]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.53.26:664][266]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.53.32:433][918]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.53.38:250][587]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.53.45:977][476]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.53.45:981][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.53.45:981][476]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:53:45)
+[2021.10.17-03.53.46:006][476]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.53.46:028][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021586s)
+[2021.10.17-03.53.46:029][476]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.53.46:029][476]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2021.10.17-03.53.46:029][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.022996s)
+[2021.10.17-03.53.46:062][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.10.17-03.53.46:064][476]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.53.46:064][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.53.46:064][476]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.53.46:064][476]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.53.46:070][476]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.53.46:070][476]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.53.46:090][476]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.53.46:090][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.53.46:090][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.53.46:090][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.53.46:091][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.53.46:091][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.53.46:091][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.53.46:096][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.53.46:096][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.53.46:096][476]LogInit: FAudioDevice initialized.
+[2021.10.17-03.53.46:096][476]LogAudio: Display: Audio Device (ID: 66) registered with world 'Untitled'.
+[2021.10.17-03.53.46:105][476]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.53.46:108][476]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.53.46:108][476]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.53.46:108][476]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.53.46:110][476]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.53.46
+[2021.10.17-03.53.46:110][476]LogWorld: Bringing up level for play took: 0.004443
+[2021.10.17-03.53.46:110][476]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2021.10.17-03.53.46:113][476]PIE: Server logged in
+[2021.10.17-03.53.46:113][476]PIE: Play in editor total start time 0.132 seconds.
+[2021.10.17-03.53.58:977][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.53.58:977][914]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.53.58:977][914]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.53.58:977][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.53.58:983][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.53.58:992][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.53.58:997][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-03.53.58:997][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.53.58:997][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.53.59:012][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.53.59:013][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.17-03.53.59:072][916]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2021.10.17-03.54.01:531][121]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.54.01:993][162]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.54.02:042][164]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.17-03.54.30:051][459]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.54.31:459][604]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.55.10:895][688]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.17-03.55.48:031][982]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.55.48:034][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.55.48:034][982]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:55:48)
+[2021.10.17-03.55.48:057][982]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.55.48:075][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017715s)
+[2021.10.17-03.55.48:076][982]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.55.48:076][982]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2021.10.17-03.55.48:076][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.018753s)
+[2021.10.17-03.55.48:089][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.17-03.55.48:090][982]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2021.10.17-03.55.48:090][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.55.48:090][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.55.48:090][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.55.48:090][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.55.48:091][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.55.48:091][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.55.48:091][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.55.48:091][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.55.48:091][982]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.55.48:091][982]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.55.48:097][982]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.55.48:097][982]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.55.48:118][982]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.55.48:118][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.55.48:118][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.55.48:118][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.55.48:119][982]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.55.48:119][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.55.48:119][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.55.48:124][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.55.48:124][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.55.48:124][982]LogInit: FAudioDevice initialized.
+[2021.10.17-03.55.48:124][982]LogAudio: Display: Audio Device (ID: 67) registered with world 'Untitled'.
+[2021.10.17-03.55.48:133][982]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.55.48:135][982]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.55.48:135][982]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.55.48:135][982]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.55.48:136][982]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.55.48
+[2021.10.17-03.55.48:137][982]LogWorld: Bringing up level for play took: 0.003263
+[2021.10.17-03.55.48:137][982]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.10.17-03.55.48:139][982]PIE: Server logged in
+[2021.10.17-03.55.48:140][982]PIE: Play in editor total start time 0.107 seconds.
+[2021.10.17-03.55.59:578][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.55.59:578][190]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.55.59:579][190]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.55.59:579][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.55.59:587][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.55.59:596][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.55.59:601][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-03.55.59:601][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.55.59:602][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.55.59:616][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.55.59:617][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.17-03.55.59:643][191]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.10.17-03.56.00:755][292]Cmd: TRANSACTION UNDO
+[2021.10.17-03.56.00:755][292]LogEditorTransaction: Undo Rotate Actors
+[2021.10.17-03.56.01:769][350]Cmd: TRANSACTION UNDO
+[2021.10.17-03.56.01:769][350]LogEditorTransaction: Undo Rotate Actors
+[2021.10.17-03.56.17:549][729]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.56.18:547][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-03.56.26:925][742]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.56.26:929][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.56.26:929][742]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:56:26)
+[2021.10.17-03.56.26:968][742]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.56.26:982][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013627s)
+[2021.10.17-03.56.26:983][742]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.56.26:983][742]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2021.10.17-03.56.26:983][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.014632s)
+[2021.10.17-03.56.26:988][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.17-03.56.26:990][742]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.56.26:990][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.56.26:990][742]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.56.26:990][742]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.56.26:995][742]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.56.26:995][742]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.56.27:015][742]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.56.27:015][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.56.27:015][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.56.27:015][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.56.27:015][742]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.56.27:016][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.56.27:016][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.56.27:021][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.56.27:021][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.56.27:021][742]LogInit: FAudioDevice initialized.
+[2021.10.17-03.56.27:021][742]LogAudio: Display: Audio Device (ID: 68) registered with world 'Untitled'.
+[2021.10.17-03.56.27:033][742]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.56.27:035][742]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.56.27:035][742]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.56.27:035][742]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.56.27:036][742]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.56.27
+[2021.10.17-03.56.27:037][742]LogWorld: Bringing up level for play took: 0.003068
+[2021.10.17-03.56.27:037][742]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.10.17-03.56.27:039][742]PIE: Server logged in
+[2021.10.17-03.56.27:040][742]PIE: Play in editor total start time 0.111 seconds.
+[2021.10.17-03.56.33:769][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.56.33:769][458]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.56.33:769][458]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.56.33:770][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.56.33:781][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.56.33:787][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.56.33:792][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-03.56.33:792][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.56.33:792][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.56.33:806][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.56.33:808][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.10.17-03.56.33:832][459]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.10.17-03.56.56:145][496]Cmd: TRANSACTION UNDO
+[2021.10.17-03.56.56:145][496]LogEditorTransaction: Undo Edit Horizon Falloff
+[2021.10.17-03.57.19:484][479]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-03.57.25:840][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.57.25:844][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.57.25:844][ 38]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:57:25)
+[2021.10.17-03.57.25:869][ 38]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.57.25:884][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015726s)
+[2021.10.17-03.57.25:885][ 38]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.57.25:885][ 38]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2021.10.17-03.57.25:885][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.016797s)
+[2021.10.17-03.57.25:966][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-03.57.25:968][ 38]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.57.25:968][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.57.25:968][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.57.25:969][ 38]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.57.25:969][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.57.25:975][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.57.25:975][ 38]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.57.25:995][ 38]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.57.25:996][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.57.25:996][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.57.25:996][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.57.25:996][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.57.25:996][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.57.25:996][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.57.26:002][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.57.26:002][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.57.26:002][ 38]LogInit: FAudioDevice initialized.
+[2021.10.17-03.57.26:002][ 38]LogAudio: Display: Audio Device (ID: 69) registered with world 'Untitled'.
+[2021.10.17-03.57.26:009][ 38]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.57.26:012][ 38]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.57.26:012][ 38]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.57.26:012][ 38]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.57.26:013][ 38]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.57.26
+[2021.10.17-03.57.26:013][ 38]LogWorld: Bringing up level for play took: 0.003083
+[2021.10.17-03.57.26:013][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2021.10.17-03.57.26:015][ 38]PIE: Server logged in
+[2021.10.17-03.57.26:016][ 38]PIE: Play in editor total start time 0.173 seconds.
+[2021.10.17-03.57.39:530][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.57.39:530][474]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.57.39:530][474]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.57.39:531][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.57.39:542][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.57.39:548][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.57.39:552][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-03.57.39:552][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.57.39:553][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.57.39:566][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.57.39:568][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.17-03.57.39:628][476]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2021.10.17-03.57.44:802][957]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.57.44:806][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.57.44:806][957]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:57:44)
+[2021.10.17-03.57.44:839][957]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.57.44:853][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013940s)
+[2021.10.17-03.57.44:854][957]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.57.44:854][957]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2021.10.17-03.57.44:854][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.014868s)
+[2021.10.17-03.57.44:859][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.17-03.57.44:860][957]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.10.17-03.57.44:860][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.57.44:860][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.57.44:860][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.57.44:861][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.57.44:861][957]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.57.44:861][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.57.44:861][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.57.44:861][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.57.44:861][957]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.57.44:861][957]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.57.44:866][957]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.57.44:866][957]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.57.44:886][957]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.57.44:886][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.57.44:886][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.57.44:886][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.57.44:886][957]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.57.44:886][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.57.44:886][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.57.44:893][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.57.44:893][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.57.44:893][957]LogInit: FAudioDevice initialized.
+[2021.10.17-03.57.44:893][957]LogAudio: Display: Audio Device (ID: 70) registered with world 'Untitled'.
+[2021.10.17-03.57.44:903][957]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.57.44:905][957]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.57.44:905][957]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.57.44:905][957]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.57.44:906][957]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.57.44
+[2021.10.17-03.57.44:906][957]LogWorld: Bringing up level for play took: 0.003794
+[2021.10.17-03.57.44:906][957]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.10.17-03.57.44:909][957]PIE: Server logged in
+[2021.10.17-03.57.44:910][957]PIE: Play in editor total start time 0.106 seconds.
+[2021.10.17-03.57.57:820][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.57.57:820][321]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.57.57:820][321]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.57.57:821][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.57.57:833][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.57.57:850][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.57.57:855][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.57.57:856][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.57.57:857][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.57.57:880][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.10.17-03.57.57:913][322]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.10.17-03.57.59:287][434]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce11)
+[2021.10.17-03.58.00:209][516]Cmd: EDIT COPY
+[2021.10.17-03.58.00:460][538]Cmd: EDIT PASTE
+[2021.10.17-03.58.21:900][322]Cmd: EDIT COPY
+[2021.10.17-03.58.22:189][346]Cmd: EDIT PASTE
+[2021.10.17-03.58.24:254][512]Cmd: EDIT PASTE
+[2021.10.17-03.58.28:661][863]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.58.28:666][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.58.28:666][863]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:58:28)
+[2021.10.17-03.58.28:666][863]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.58.28:683][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016593s)
+[2021.10.17-03.58.28:684][863]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.58.28:684][863]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2021.10.17-03.58.28:684][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.017806s)
+[2021.10.17-03.58.28:691][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.17-03.58.28:692][863]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.58.28:693][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.58.28:693][863]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.58.28:693][863]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.58.28:698][863]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.58.28:698][863]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.58.28:718][863]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.58.28:719][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.58.28:719][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.58.28:719][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.58.28:719][863]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.58.28:719][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.58.28:719][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.58.28:723][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.58.28:723][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.58.28:723][863]LogInit: FAudioDevice initialized.
+[2021.10.17-03.58.28:723][863]LogAudio: Display: Audio Device (ID: 71) registered with world 'Untitled'.
+[2021.10.17-03.58.28:729][863]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.58.28:732][863]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.58.28:732][863]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.58.28:732][863]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.58.28:733][863]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.58.28
+[2021.10.17-03.58.28:733][863]LogWorld: Bringing up level for play took: 0.003468
+[2021.10.17-03.58.28:733][863]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.10.17-03.58.28:735][863]PIE: Server logged in
+[2021.10.17-03.58.28:736][863]PIE: Play in editor total start time 0.071 seconds.
+[2021.10.17-03.58.31:371][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.58.31:371][119]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.58.31:371][119]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-03.58.31:372][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.58.31:380][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-03.58.31:385][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-03.58.31:389][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-03.58.31:390][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.58.31:390][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-03.58.31:404][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-03.58.31:406][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-03.58.31:465][121]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.10.17-03.58.32:567][217]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce15)
+[2021.10.17-03.58.36:302][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x300)
+[2021.10.17-03.58.39:492][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.10.17-03.58.41:067][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-03.58.47:182][324]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2021.10.17-03.58.50:466][558]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce19)
+[2021.10.17-03.59.05:628][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-03.59.06:170][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.10.17-03.59.06:560][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-03.59.06:978][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x200)
+[2021.10.17-03.59.07:327][833]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce19)
+[2021.10.17-03.59.08:152][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-03.59.08:582][925]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.08:582][925]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.09:612][978]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.09:612][978]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.09:627][978]Cmd: EDIT CUT
+[2021.10.17-03.59.09:635][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.17-03.59.09:640][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.10.17-03.59.09:642][978]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.17-03.59.10:079][ 12]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.10:079][ 12]LogEditorTransaction: Undo Cut
+[2021.10.17-03.59.11:266][ 97]Cmd: EDIT CUT
+[2021.10.17-03.59.11:277][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.17-03.59.11:281][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.10.17-03.59.11:282][ 97]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.17-03.59.11:723][131]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.11:723][131]LogEditorTransaction: Undo Cut
+[2021.10.17-03.59.12:026][150]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.12:026][150]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.12:392][175]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.12:392][175]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.12:745][200]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.12:745][200]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.13:079][224]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.13:079][224]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.13:534][258]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.13:534][258]LogEditorTransaction: Undo Move Actors
+[2021.10.17-03.59.13:915][286]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.13:915][286]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.14:317][315]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.14:318][315]LogEditorTransaction: Undo Move Actors
+[2021.10.17-03.59.14:737][345]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.14:737][345]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.15:211][378]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.15:211][378]LogEditorTransaction: Undo Move Actors
+[2021.10.17-03.59.15:693][411]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.15:693][411]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.16:211][447]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.16:211][447]LogEditorTransaction: Undo Clicking on Actors
+[2021.10.17-03.59.18:597][628]Cmd: EDIT COPY
+[2021.10.17-03.59.18:965][655]Cmd: EDIT PASTE
+[2021.10.17-03.59.21:558][841]Cmd: TRANSACTION UNDO
+[2021.10.17-03.59.21:558][841]LogEditorTransaction: Undo Move Actors
+[2021.10.17-03.59.25:610][114]Cmd: EDIT COPY
+[2021.10.17-03.59.25:814][129]Cmd: EDIT PASTE
+[2021.10.17-03.59.28:284][301]Cmd: EDIT PASTE
+[2021.10.17-03.59.32:030][557]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce21)
+[2021.10.17-03.59.37:049][904]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce22)
+[2021.10.17-03.59.40:561][151]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce23)
+[2021.10.17-03.59.45:519][491]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce16)
+[2021.10.17-03.59.52:633][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-03.59.52:637][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-03.59.52:637][ 10]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午5:59:52)
+[2021.10.17-03.59.52:670][ 10]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-03.59.52:684][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013790s)
+[2021.10.17-03.59.52:685][ 10]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-03.59.52:685][ 10]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2021.10.17-03.59.52:685][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.014886s)
+[2021.10.17-03.59.52:692][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.17-03.59.52:693][ 10]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-03.59.52:694][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-03.59.52:694][ 10]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-03.59.52:694][ 10]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-03.59.52:699][ 10]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-03.59.52:699][ 10]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-03.59.52:720][ 10]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-03.59.52:720][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-03.59.52:720][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-03.59.52:720][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-03.59.52:721][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-03.59.52:721][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-03.59.52:721][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-03.59.52:726][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-03.59.52:726][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-03.59.52:726][ 10]LogInit: FAudioDevice initialized.
+[2021.10.17-03.59.52:726][ 10]LogAudio: Display: Audio Device (ID: 72) registered with world 'Untitled'.
+[2021.10.17-03.59.52:733][ 10]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-03.59.52:736][ 10]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-03.59.52:736][ 10]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-03.59.52:736][ 10]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-03.59.52:738][ 10]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-22.59.52
+[2021.10.17-03.59.52:738][ 10]LogWorld: Bringing up level for play took: 0.004112
+[2021.10.17-03.59.52:738][ 10]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.10.17-03.59.52:740][ 10]PIE: Server logged in
+[2021.10.17-03.59.52:741][ 10]PIE: Play in editor total start time 0.105 seconds.
+[2021.10.17-04.00.21:082][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.00.21:082][707]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.00.21:082][707]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.00.21:083][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.00.21:089][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.00.21:096][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.00.21:100][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-04.00.21:100][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.00.21:101][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.00.21:115][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.00.21:117][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.17-04.00.21:175][709]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.10.17-04.00.25:611][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-04.00.32:549][794]Cmd: TRANSACTION UNDO
+[2021.10.17-04.00.32:549][794]LogEditorTransaction: Undo Rotate Actors
+[2021.10.17-04.00.40:996][721]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-04.00.41:001][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-04.00.41:002][721]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午6:00:41)
+[2021.10.17-04.00.41:032][721]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.00.41:046][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014333s)
+[2021.10.17-04.00.41:047][721]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-04.00.41:047][721]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2021.10.17-04.00.41:047][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.015278s)
+[2021.10.17-04.00.41:051][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.17-04.00.41:053][721]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-04.00.41:053][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-04.00.41:053][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-04.00.41:054][721]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-04.00.41:054][721]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-04.00.41:059][721]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-04.00.41:059][721]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-04.00.41:078][721]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-04.00.41:079][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-04.00.41:079][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-04.00.41:079][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-04.00.41:079][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-04.00.41:079][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-04.00.41:079][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-04.00.41:084][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-04.00.41:084][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-04.00.41:084][721]LogInit: FAudioDevice initialized.
+[2021.10.17-04.00.41:084][721]LogAudio: Display: Audio Device (ID: 73) registered with world 'Untitled'.
+[2021.10.17-04.00.41:096][721]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-04.00.41:098][721]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.00.41:098][721]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.00.41:098][721]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.00.41:100][721]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-23.00.41
+[2021.10.17-04.00.41:100][721]LogWorld: Bringing up level for play took: 0.003218
+[2021.10.17-04.00.41:100][721]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.10.17-04.00.41:102][721]PIE: Server logged in
+[2021.10.17-04.00.41:103][721]PIE: Play in editor total start time 0.103 seconds.
+[2021.10.17-04.00.41:432][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.00.41:432][745]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.00.41:432][745]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.00.41:433][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.00.41:439][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.00.41:448][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.00.41:453][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-04.00.41:453][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.00.41:453][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.00.41:467][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.00.41:469][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.10.17-04.00.41:494][746]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.10.17-04.01.12:002][192]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2021.10.17-04.01.13:712][375]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.10.17-04.01.33:557][128]Cmd: TRANSACTION UNDO
+[2021.10.17-04.01.33:557][128]LogEditorTransaction: Undo Edit Stars Brightness
+[2021.10.17-04.01.45:006][133]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-04.02.01:969][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-04.02.29:289][ 95]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-04.02.29:918][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.10.17-04.02.30:814][233]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-04.02.30:818][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-04.02.30:818][233]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午6:02:30)
+[2021.10.17-04.02.30:818][233]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.02.30:834][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015950s)
+[2021.10.17-04.02.30:835][233]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-04.02.30:835][233]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2021.10.17-04.02.30:835][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.017019s)
+[2021.10.17-04.02.31:114][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.10.17-04.02.31:116][233]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-04.02.31:116][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-04.02.31:116][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-04.02.31:117][233]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-04.02.31:117][233]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-04.02.31:122][233]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-04.02.31:122][233]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-04.02.31:154][233]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-04.02.31:154][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-04.02.31:154][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-04.02.31:154][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-04.02.31:155][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-04.02.31:155][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-04.02.31:155][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-04.02.31:160][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-04.02.31:160][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-04.02.31:160][233]LogInit: FAudioDevice initialized.
+[2021.10.17-04.02.31:160][233]LogAudio: Display: Audio Device (ID: 74) registered with world 'Untitled'.
+[2021.10.17-04.02.31:170][233]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-04.02.31:172][233]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.02.31:172][233]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.02.31:172][233]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.02.31:174][233]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-23.02.31
+[2021.10.17-04.02.31:174][233]LogWorld: Bringing up level for play took: 0.003717
+[2021.10.17-04.02.31:174][233]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.10.17-04.02.31:177][233]PIE: Server logged in
+[2021.10.17-04.02.31:177][233]PIE: Play in editor total start time 0.361 seconds.
+[2021.10.17-04.02.43:743][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.02.43:743][486]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.02.43:744][486]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.02.43:744][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.02.43:754][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.02.43:760][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.02.43:765][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-04.02.43:765][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.02.43:766][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.02.43:780][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.02.43:782][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.17-04.02.43:844][488]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.10.17-04.03.14:498][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-04.03.14:504][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-04.03.14:504][ 64]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午6:03:14)
+[2021.10.17-04.03.14:504][ 64]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.03.14:520][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016158s)
+[2021.10.17-04.03.14:521][ 64]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-04.03.14:521][ 64]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2021.10.17-04.03.14:521][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.017154s)
+[2021.10.17-04.03.14:530][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.10.17-04.03.14:532][ 64]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2021.10.17-04.03.14:532][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-04.03.14:532][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-04.03.14:532][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-04.03.14:532][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-04.03.14:532][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-04.03.14:533][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-04.03.14:533][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-04.03.14:533][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-04.03.14:533][ 64]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-04.03.14:533][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-04.03.14:538][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-04.03.14:538][ 64]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-04.03.14:557][ 64]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-04.03.14:558][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-04.03.14:558][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-04.03.14:558][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-04.03.14:558][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-04.03.14:558][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-04.03.14:558][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-04.03.14:564][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-04.03.14:564][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-04.03.14:564][ 64]LogInit: FAudioDevice initialized.
+[2021.10.17-04.03.14:564][ 64]LogAudio: Display: Audio Device (ID: 75) registered with world 'Untitled'.
+[2021.10.17-04.03.14:575][ 64]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-04.03.14:578][ 64]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.03.14:578][ 64]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.03.14:578][ 64]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.03.14:580][ 64]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-23.03.14
+[2021.10.17-04.03.14:580][ 64]LogWorld: Bringing up level for play took: 0.004608
+[2021.10.17-04.03.14:580][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.10.17-04.03.14:583][ 64]PIE: Server logged in
+[2021.10.17-04.03.14:583][ 64]PIE: Play in editor total start time 0.08 seconds.
+[2021.10.17-04.03.39:525][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.03.39:525][304]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.03.39:525][304]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.03.39:526][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.03.39:535][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.03.39:546][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.03.39:551][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-04.03.39:551][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.03.39:552][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.03.39:567][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.03.39:569][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.17-04.03.39:595][305]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.10.17-04.04.23:775][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.17-04.04.23:778][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="C:/Users/ll450/OneDrive/桌面/CS498/mp2/CS498_mp2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.10.17-04.04.23:830][776]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp2/CS498_mp2/MyProject/Saved/Untitled_1_Auto2FEA4938E40870F07B080349F234ACEAF.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp2/CS498_mp2/MyProject/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2021.10.17-04.04.23:832][776]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.067
+[2021.10.17-04.04.23:832][776]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2021.10.17-04.06.01:335][744]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce16)
+[2021.10.17-04.06.02:079][803]Cmd: DELETE
+[2021.10.17-04.06.02:079][803]Cmd: ACTOR DELETE
+[2021.10.17-04.06.02:087][803]LogEditorActor: Deleted Actor: Blueprint_WallSconce_C
+[2021.10.17-04.06.02:092][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.17-04.06.02:094][803]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.10.17-04.06.10:962][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x427)
+[2021.10.17-04.06.11:829][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x426)
+[2021.10.17-04.06.12:270][612]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x424)
+[2021.10.17-04.06.12:594][635]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x425)
+[2021.10.17-04.06.12:999][665]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x428)
+[2021.10.17-04.06.13:411][695]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x429)
+[2021.10.17-04.06.13:915][733]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x411)
+[2021.10.17-04.06.14:355][765]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x412)
+[2021.10.17-04.06.14:834][800]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x410)
+[2021.10.17-04.06.15:658][861]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x409)
+[2021.10.17-04.06.19:530][141]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x408)
+[2021.10.17-04.06.19:968][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x407)
+[2021.10.17-04.06.20:403][207]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x405)
+[2021.10.17-04.06.20:752][233]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x406)
+[2021.10.17-04.06.23:040][402]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x403)
+[2021.10.17-04.06.23:478][425]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x404)
+[2021.10.17-04.06.23:884][454]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x402)
+[2021.10.17-04.06.24:299][483]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x401)
+[2021.10.17-04.06.39:814][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.10.17-04.06.48:968][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x404)
+[2021.10.17-04.06.55:754][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x432)
+[2021.10.17-04.06.56:564][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.10.17-04.06.57:218][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x201)
+[2021.10.17-04.06.57:767][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x403)
+[2021.10.17-04.07.03:317][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x407)
+[2021.10.17-04.07.05:697][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x408)
+[2021.10.17-04.07.31:444][551]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-04.07.31:448][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-04.07.31:448][551]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午6:07:31)
+[2021.10.17-04.07.31:448][551]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.07.31:469][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020487s)
+[2021.10.17-04.07.31:469][551]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-04.07.31:470][551]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2021.10.17-04.07.31:470][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.021551s)
+[2021.10.17-04.07.31:475][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.17-04.07.31:477][551]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-04.07.31:477][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-04.07.31:477][551]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-04.07.31:477][551]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-04.07.31:483][551]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-04.07.31:483][551]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-04.07.31:503][551]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-04.07.31:503][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-04.07.31:503][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-04.07.31:503][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-04.07.31:503][551]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-04.07.31:503][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-04.07.31:503][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-04.07.31:508][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-04.07.31:508][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-04.07.31:508][551]LogInit: FAudioDevice initialized.
+[2021.10.17-04.07.31:508][551]LogAudio: Display: Audio Device (ID: 76) registered with world 'Untitled'.
+[2021.10.17-04.07.31:520][551]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-04.07.31:522][551]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.07.31:522][551]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.07.31:522][551]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.07.31:523][551]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-23.07.31
+[2021.10.17-04.07.31:523][551]LogWorld: Bringing up level for play took: 0.003148
+[2021.10.17-04.07.31:524][551]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2021.10.17-04.07.31:526][551]PIE: Server logged in
+[2021.10.17-04.07.31:527][551]PIE: Play in editor total start time 0.08 seconds.
+[2021.10.17-04.07.47:558][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.07.47:558][ 35]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.07.47:558][ 35]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.07.47:559][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.07.47:566][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.07.47:579][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.07.47:584][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.07.47:584][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.07.47:585][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.07.47:600][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.17-04.07.47:628][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2021.10.17-04.07.48:512][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x402)
+[2021.10.17-04.08.04:352][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x401)
+[2021.10.17-04.08.09:719][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x405)
+[2021.10.17-04.08.10:388][735]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x406)
+[2021.10.17-04.08.17:001][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x412)
+[2021.10.17-04.08.17:506][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x411)
+[2021.10.17-04.08.17:819][270]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x409)
+[2021.10.17-04.08.18:193][296]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x410)
+[2021.10.17-04.08.25:177][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x429)
+[2021.10.17-04.08.25:658][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x428)
+[2021.10.17-04.08.29:897][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x410)
+[2021.10.17-04.08.31:196][243]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-04.08.31:201][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-04.08.31:201][243]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午6:08:31)
+[2021.10.17-04.08.31:228][243]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.08.31:243][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014812s)
+[2021.10.17-04.08.31:243][243]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-04.08.31:243][243]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2021.10.17-04.08.31:243][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.015746s)
+[2021.10.17-04.08.31:248][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.10.17-04.08.31:250][243]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-04.08.31:250][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-04.08.31:250][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-04.08.31:251][243]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-04.08.31:251][243]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-04.08.31:256][243]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-04.08.31:256][243]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-04.08.31:276][243]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-04.08.31:276][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-04.08.31:276][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-04.08.31:276][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-04.08.31:276][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-04.08.31:276][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-04.08.31:276][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-04.08.31:281][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-04.08.31:281][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-04.08.31:281][243]LogInit: FAudioDevice initialized.
+[2021.10.17-04.08.31:281][243]LogAudio: Display: Audio Device (ID: 77) registered with world 'Untitled'.
+[2021.10.17-04.08.31:292][243]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-04.08.31:294][243]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.08.31:294][243]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.08.31:294][243]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.08.31:296][243]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-23.08.31
+[2021.10.17-04.08.31:296][243]LogWorld: Bringing up level for play took: 0.003492
+[2021.10.17-04.08.31:296][243]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.10.17-04.08.31:298][243]PIE: Server logged in
+[2021.10.17-04.08.31:299][243]PIE: Play in editor total start time 0.099 seconds.
+[2021.10.17-04.08.40:179][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.08.40:179][  8]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.08.40:179][  8]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.08.40:180][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.08.40:186][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.08.40:200][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.08.40:204][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.08.40:205][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.08.40:205][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.08.40:221][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.17-04.08.40:287][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.10.17-04.08.40:994][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x425)
+[2021.10.17-04.08.41:875][120]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x427)
+[2021.10.17-04.08.42:247][144]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x426)
+[2021.10.17-04.08.42:806][181]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x424)
+[2021.10.17-04.08.43:609][235]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x428)
+[2021.10.17-04.08.43:931][256]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x409)
+[2021.10.17-04.08.45:736][375]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x429)
+[2021.10.17-04.08.49:209][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x409)
+[2021.10.17-04.08.49:620][616]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x410)
+[2021.10.17-04.08.50:931][698]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x406)
+[2021.10.17-04.08.51:437][726]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x405)
+[2021.10.17-04.08.53:833][898]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x402)
+[2021.10.17-04.08.54:302][921]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_400x401)
+[2021.10.17-04.09.09:943][881]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x425)
+[2021.10.17-04.09.16:991][343]LogActorFactory: Actor Factory created SM_Statue
+[2021.10.17-04.09.17:795][384]LogActorFactory: Actor Factory created SM_Statue
+[2021.10.17-04.09.19:229][466]Cmd: DELETE
+[2021.10.17-04.09.19:229][466]Cmd: ACTOR DELETE
+[2021.10.17-04.09.19:238][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.17-04.09.19:249][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.17-04.09.19:251][466]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.10.17-04.09.20:225][518]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2021.10.17-04.09.21:160][572]LogActorFactory: Actor Factory created SM_MatPreviewMesh_02
+[2021.10.17-04.09.29:862][166]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-04.09.29:867][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-04.09.29:867][166]PIE: New page: PIE session: Untitled_1 (2021年10月16日 下午6:09:29)
+[2021.10.17-04.09.29:888][166]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.09.29:905][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016436s)
+[2021.10.17-04.09.29:905][166]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-04.09.29:906][166]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2021.10.17-04.09.29:906][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled to /Temp/UEDPIE_0_Untitled_1.Untitled (0.017477s)
+[2021.10.17-04.09.29:911][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-04.09.29:912][166]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-04.09.29:912][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-04.09.29:912][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-04.09.29:913][166]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-04.09.29:913][166]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-04.09.29:918][166]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-04.09.29:918][166]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-04.09.29:939][166]LogAudioMixer: Display: Using Audio Device Dell S2716DG (NVIDIA High Definition Audio)
+[2021.10.17-04.09.29:940][166]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-04.09.29:940][166]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-04.09.29:940][166]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-04.09.29:940][166]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-04.09.29:940][166]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-04.09.29:940][166]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-04.09.29:946][166]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-04.09.29:947][166]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-04.09.29:947][166]LogInit: FAudioDevice initialized.
+[2021.10.17-04.09.29:947][166]LogAudio: Display: Audio Device (ID: 78) registered with world 'Untitled'.
+[2021.10.17-04.09.29:956][166]LogLoad: Game class is 'GameModeBase'
+[2021.10.17-04.09.29:960][166]LogPhysics: Warning: Scale for /Temp/UEDPIE_0_Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.09.29:960][166]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.09.29:960][166]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.09.29:961][166]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled up for play (max tick rate 0) at 2021.10.16-23.09.29
+[2021.10.17-04.09.29:961][166]LogWorld: Bringing up level for play took: 0.004268
+[2021.10.17-04.09.29:962][166]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.10.17-04.09.29:964][166]PIE: Server logged in
+[2021.10.17-04.09.29:965][166]PIE: Play in editor total start time 0.099 seconds.
+[2021.10.17-04.09.50:680][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.09.50:680][986]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2021.10.17-04.09.50:680][986]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-04.09.50:680][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.09.50:691][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-04.09.50:706][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-04.09.50:711][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-04.09.50:711][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.09.50:712][986]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-04.09.50:726][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-04.09.50:728][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.10.17-04.09.50:755][987]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.10.17-04.09.51:705][ 59]MapCheck: New page: Map Check
+[2021.10.17-04.09.51:732][ 59]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.17-04.09.51:734][ 59]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.17-04.09.51:755][ 59]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=false
+[2021.10.17-04.09.51:765][ 59]LogPhysics: Warning: Scale for /Temp/Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.09.51:765][ 59]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.09.51:765][ 59]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: Scale for /Temp/Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: Scale for /Temp/Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: Scale for /Temp/Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10.SM_Lamp_Ceiling has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2021.10.17-04.09.51:781][ 59]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.10.17-04.09.51:794][ 59]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.17-04.09.51:794][ 59]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.17-04.09.51:794][ 59]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.17-04.09.51:802][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.17-04.09.51:803][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:804][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:806][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:807][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:808][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:810][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:811][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.10.17-04.09.51:812][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.10.17-04.09.51:812][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:814][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:815][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:818][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:820][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:822][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:824][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:826][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:827][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:829][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:831][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:833][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:835][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.51:837][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.17-04.09.54:222][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 31
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.10.17-04.09.54:223][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.10.17-04.09.54:223][ 59]TextureStreamingBuild: Display: Compiling optional shaders took 2.419 seconds.
+[2021.10.17-04.09.54:446][ 59]LogLevel: Display: Export Material TexCoord Scales took 0.222 seconds.
+[2021.10.17-04.09.54:448][ 59]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2021.10.17-04.09.54:453][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.10.17-04.09.54:456][ 59]LightingResults: New page: Lighting Build - 2021年10月16日 下午6:09:54
+[2021.10.17-04.09.54:461][ 59]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.17-04.09.54:468][ 59]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.17-04.09.54:468][ 59]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.17-04.09.54:469][ 59]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.17-04.09.54:469][ 59]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27868
+[2021.10.17-04.09.59:019][ 59]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.17-04.09.59:019][ 59]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.17-04.09.59:019][ 59]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.17-04.09.59:019][ 59]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.17-04.09.59:019][ 59]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.17-04.09.59:184][ 59]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.17-04.09.59:184][ 59]MapCheck: New page: Untitled_1 - 2021年10月16日 下午6:09:59
+[2021.10.17-04.09.59:185][ 59]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.10.17-04.09.59:185][ 59]MapCheck: Error: Blueprint_CeilingLight3_10 /Temp/Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10 : Invalid DrawScale/DrawScale3D 
+[2021.10.17-04.09.59:185][ 59]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 0.842ms to complete.
+[2021.10.17-04.09.59:187][ 59]LogEditorBuildUtils: Build time 0:07
+[2021.10.17-04.09.59:290][ 59]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere_Plain, compiling. 
+[2021.10.17-04.09.59:294][ 59]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere_Plain, compiling. 
+[2021.10.17-04.09.59:296][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.17-04.09.59:296][ 59]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.17-04.09.59:296][ 59]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere, compiling. 
+[2021.10.17-04.09.59:299][ 59]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_MaterialSphere, compiling. 
+[2021.10.17-04.09.59:387][ 59]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.10.17-04.09.59:388][ 59]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.10.17-04.09.59:388][ 59]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.10.17-04.09.59:388][ 59]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.10.17-04.09.59:388][ 59]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.10.17-04.09.59:388][ 59]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.10.17-04.10.00:168][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.17-04.10.07:677][500]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.07:677][500]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.07:765][505]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.07:765][505]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.12:004][752]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.12:004][752]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.13:859][863]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.13:871][864]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.15:198][941]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.15:198][941]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.18:547][139]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.18:547][139]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.23:924][446]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.23:924][446]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.29:245][768]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.29:245][768]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.41:739][512]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.41:739][512]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.43:897][641]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2021.10.17-04.10.43:897][641]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.10.17-04.10.48:171][901]Job is a success!
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:          1: 50.0% covering 3.1% of volume
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:          2: 25.0% covering 0.0% of volume
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.17-04.10.48:345][902]LogVolumetricLightmapImport:          Untitled 			 4 bricks 	 100.0% (Persistent Level)
+[2021.10.17-04.10.48:883][902]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2021.10.17-04.10.48:883][902]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2021.10.17-04.10.48:883][902]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.10.17-04.10.48:884][902]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.10.17-04.10.48:884][902]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.10.17-04.10.48:884][902]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.10.17-04.10.48:884][902]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2021.10.17-04.10.48:884][902]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2021.10.17-04.10.49:083][902]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 32X32)
+[2021.10.17-04.10.49:083][902]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (BGRA8, 256X256)
+[2021.10.17-04.10.49:085][902]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (BGRA8, 1024X1024)
+[2021.10.17-04.10.49:103][902]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 102 meshes in 6 LightmapResourceClusters (17.0 Meshes per cluster).
+[2021.10.17-04.10.49:107][902]Lightmass on PIPI-DESKTOP: 48.4 sec total, 214 ms importing, 42 ms setup, 6.37 sec photons, 41.7 sec processing, 0 ms extra exporting [195/195 mappings]. Threads: 7:39 min total, 4:39 min processing.
+[2021.10.17-04.10.49:107][902]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.M_MaterialSphere_Plain needed to have new flag set bUsedWithStaticLighting !
+[2021.10.17-04.10.49:109][902]LogMaterial: Display: Missing cached shader map for material M_MaterialSphere_Plain, compiling. 
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.10.17-04.10.49:135][902]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.10.17-04.10.49:135][902]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_MaterialSphere.M_MaterialSphere needed to have new flag set bUsedWithStaticLighting !
+[2021.10.17-04.10.49:136][902]LogMaterial: Display: Missing cached shader map for material M_MaterialSphere, compiling. 
+[2021.10.17-04.10.49:153][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.10.17-04.10.49:184][902]LogStaticLightingSystem: Illumination: 54.6 sec (425 ms encoding lightmaps, 178 ms encoding shadowmaps)
+[2021.10.17-04.10.49:184][902]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.0 MB streaming, 0.5 MB non-streaming), 8 textures
+[2021.10.17-04.10.49:184][902]LogStaticLightingSystem: Shadowmap texture memory: 5.7 MB (5.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2021.10.17-04.10.50:069][902]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.10.17-04.10.50:070][902]DumpUnbuiltLightIteractions
+[2021.10.17-04.10.50:070][902]Lights with unbuilt interactions: 0
+[2021.10.17-04.10.50:070][902]
+[2021.10.17-04.10.50:070][902]Primitives with unbuilt interactions: 0
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.10.17-04.10.53:069][902]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.10.17-04.10.53:096][903]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.17-04.10.53:096][903]MapCheck: New page: Untitled_1 - 2021年10月16日 下午6:10:53
+[2021.10.17-04.10.53:097][903]MapCheck: Error: Blueprint_CeilingLight3_10 /Temp/Untitled_1.Untitled:PersistentLevel.Blueprint_CeilingLight3_10 : Invalid DrawScale/DrawScale3D 
+[2021.10.17-04.10.53:097][903]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.888ms to complete.
+[2021.10.17-04.10.53:840][935]LogSlate: Window 'Message Log' being destroyed
+[2021.10.17-04.10.53:862][935]LogSlate: Window 'Message Log' being destroyed
+[2021.10.17-04.10.58:230][263]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x200)
+[2021.10.17-04.10.58:965][293]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce21)
+[2021.10.17-04.11.18:848][646]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce22)
+[2021.10.17-04.11.19:787][712]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce21)
+[2021.10.17-04.11.19:788][712]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-04.11.28:227][276]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-04.11.29:003][329]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce22)
+[2021.10.17-04.11.41:566][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-04.11.42:694][259]LogEditorViewport: Clicking on Actor (LMB): Blueprint_WallSconce_C (Blueprint_WallSconce23)
+[2021.10.17-04.11.42:695][259]LogSlate: Window 'Color Picker' being destroyed
+[2021.10.17-04.12.04:385][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x303)
+[2021.10.17-04.12.06:072][868]LogSlate: Window 'Color Picker' being destroyed
